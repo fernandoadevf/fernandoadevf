@@ -1,6 +1,6 @@
 # Perfil do GitHub de Fernando Arantes
 
-<img align="center" width=100% src="[https://github.com/RicardoMouraa/RicardoMouraa/assets/106688139/a23c252f-6a3d-42d8-96a0-0d6a3839fb96](https://media.licdn.com/dms/image/v2/D4D16AQFgmK1Q0RVy4g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731443551366?e=1738800000&v=beta&t=ZE3sptl_4diSUeNJh95FJPPrN04vudfjpTcq1zIG7eI)"/>
+<img align="center" width=100% src="https://media.licdn.com/dms/image/v2/D4D16AQFgmK1Q0RVy4g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731443551366?e=1738800000&v=beta&t=ZE3sptl_4diSUeNJh95FJPPrN04vudfjpTcq1zIG7eI"/>
 
 <p align="center">❤️ Amo criar soluções inovadoras em tecnologia.</p>
 
